@@ -12,11 +12,11 @@ Klasik şifre kontrolleri "büyük harf, rakam ve sembol var mı?" diye bakar. A
 
 | Şifre | Formül entropisi | Gerçek entropi | Hızlı saldırıda kırılma |
 |---|---|---|---|
-| `Galatasaray1905` | 89.3 bit | 15.0 bit | anında |
+| `Bilgisayar2025` | 83.4 bit | 15.4 bit | anında |
 | `P@ssw0rd` | 52.6 bit | 3.6 bit | anında |
 | `mavikedibahcedeuyur` | 89.3 bit | 77.8 bit | ~412 bin yıl |
 
-`Galatasaray1905` kâğıt üzerinde çok güçlü görünür, ama saldırgan onu harf harf değil, **"yaygın kelime + yıl"** olarak tahmin eder. Bu araç tam olarak bu farkı gösterir.
+`Bilgisayar2025` kâğıt üzerinde çok güçlü görünür, ama saldırgan onu harf harf değil, **"yaygın kelime + yıl"** olarak tahmin eder. Bu araç tam olarak bu farkı gösterir.
 
 ## Özellikler
 
